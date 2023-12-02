@@ -7,7 +7,7 @@
 
 ## Running
 
-- The simulator can be used from inside the Unity Editor or by running the *build.x86_64* executable
+- The simulator can be used from inside the Unity Editor or by running the *build.x86_64* executable (unity installation is not needed for this)
 - If using the editor, make sure to source ros2 first with `source /opt/ros2/humble/setup.bash` then run the Unity Editor from terminal.
 - Once the simulator is running, the Kobuki should publish to */cone_positions* and be ready to accept DriveCommand messages from */ugrdv_kobuki/drive_command*
 - After sourcing install/setup.bash, the test navigator node can be run with `ros2 run kobuki_unity navigator`
