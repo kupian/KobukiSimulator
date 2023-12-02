@@ -1,0 +1,37 @@
+[0.663s] Invoking command in '/home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity': PYTHONPATH=/home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/prefix_override:/home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/kobuki_unity build --build-base /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build install --record /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/install.log --single-version-externally-managed
+[0.877s] running egg_info
+[0.877s] creating build/kobuki_unity/kobuki_unity.egg-info
+[0.877s] writing build/kobuki_unity/kobuki_unity.egg-info/PKG-INFO
+[0.877s] writing dependency_links to build/kobuki_unity/kobuki_unity.egg-info/dependency_links.txt
+[0.877s] writing entry points to build/kobuki_unity/kobuki_unity.egg-info/entry_points.txt
+[0.878s] writing requirements to build/kobuki_unity/kobuki_unity.egg-info/requires.txt
+[0.878s] writing top-level names to build/kobuki_unity/kobuki_unity.egg-info/top_level.txt
+[0.878s] writing manifest file 'build/kobuki_unity/kobuki_unity.egg-info/SOURCES.txt'
+[0.879s] reading manifest file 'build/kobuki_unity/kobuki_unity.egg-info/SOURCES.txt'
+[0.879s] writing manifest file 'build/kobuki_unity/kobuki_unity.egg-info/SOURCES.txt'
+[0.879s] running build
+[0.879s] running build_py
+[0.879s] creating /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build
+[0.880s] creating /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build/lib
+[0.880s] creating /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build/lib/kobuki_unity
+[0.880s] copying kobuki_unity/drive_publisher.py -> /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build/lib/kobuki_unity
+[0.880s] copying kobuki_unity/__init__.py -> /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build/lib/kobuki_unity
+[0.880s] running install
+[0.880s] running install_lib
+[0.880s] creating /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity
+[0.880s] copying /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build/lib/kobuki_unity/drive_publisher.py -> /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity
+[0.881s] copying /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build/lib/kobuki_unity/__init__.py -> /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity
+[0.881s] byte-compiling /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity/drive_publisher.py to drive_publisher.cpython-310.pyc
+[0.881s] byte-compiling /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity/__init__.py to __init__.cpython-310.pyc
+[0.881s] running install_data
+[0.882s] creating /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/share/ament_index
+[0.882s] creating /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/share/ament_index/resource_index
+[0.882s] creating /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/share/ament_index/resource_index/packages
+[0.882s] copying resource/kobuki_unity -> /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/share/ament_index/resource_index/packages
+[0.882s] copying package.xml -> /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/share/kobuki_unity
+[0.882s] running install_egg_info
+[0.883s] Copying build/kobuki_unity/kobuki_unity.egg-info to /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity-0.0.0-py3.10.egg-info
+[0.884s] running install_scripts
+[0.899s] Installing drive_publisher script to /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/kobuki_unity
+[0.899s] writing list of installed files to '/home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/install.log'
+[0.916s] Invoked command in '/home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity' returned '0': PYTHONPATH=/home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/prefix_override:/home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/kobuki_unity build --build-base /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build install --record /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/install.log --single-version-externally-managed

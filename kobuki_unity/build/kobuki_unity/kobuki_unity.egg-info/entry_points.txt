@@ -1,0 +1,3 @@
+[console_scripts]
+drive_publisher = kobuki_unity.drive_publisher:main
+

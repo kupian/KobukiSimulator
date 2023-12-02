@@ -1,0 +1,22 @@
+running egg_info
+writing build/kobuki_unity/kobuki_unity.egg-info/PKG-INFO
+writing dependency_links to build/kobuki_unity/kobuki_unity.egg-info/dependency_links.txt
+writing entry points to build/kobuki_unity/kobuki_unity.egg-info/entry_points.txt
+writing requirements to build/kobuki_unity/kobuki_unity.egg-info/requires.txt
+writing top-level names to build/kobuki_unity/kobuki_unity.egg-info/top_level.txt
+reading manifest file 'build/kobuki_unity/kobuki_unity.egg-info/SOURCES.txt'
+writing manifest file 'build/kobuki_unity/kobuki_unity.egg-info/SOURCES.txt'
+running build
+running build_py
+copying kobuki_unity/drive_publisher.py -> /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build/lib/kobuki_unity
+running install
+running install_lib
+copying /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/build/lib/kobuki_unity/drive_publisher.py -> /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity
+byte-compiling /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity/drive_publisher.py to drive_publisher.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/kobuki_unity/kobuki_unity.egg-info to /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/python3.10/site-packages/kobuki_unity-0.0.0-py3.10.egg-info
+running install_scripts
+Installing drive_publisher script to /home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/install/kobuki_unity/lib/kobuki_unity
+writing list of installed files to '/home/alex/ugrdv/ugrdv/ros2_ws/src/kobuki_unity/build/kobuki_unity/install.log'

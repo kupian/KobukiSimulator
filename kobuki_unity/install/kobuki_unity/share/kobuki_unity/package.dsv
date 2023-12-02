@@ -1,0 +1,6 @@
+source;share/kobuki_unity/hook/pythonpath.ps1
+source;share/kobuki_unity/hook/pythonpath.dsv
+source;share/kobuki_unity/hook/pythonpath.sh
+source;share/kobuki_unity/hook/ament_prefix_path.ps1
+source;share/kobuki_unity/hook/ament_prefix_path.dsv
+source;share/kobuki_unity/hook/ament_prefix_path.sh
